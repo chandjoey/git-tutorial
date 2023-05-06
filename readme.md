@@ -3,6 +3,7 @@
 
 feature-a
 fix-b
-faeture-c
+feature-c
+feature-d
 
 
